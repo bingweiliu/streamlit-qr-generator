@@ -1,5 +1,7 @@
 # QR Code Generator
 
+> **Disclaimer**: This repository was generated with the assistance of Cursor AI. While the code and documentation are functional, they were created with AI assistance and should be reviewed and tested before use in production environments.
+
 A web-based QR code generator built with Streamlit that allows you to create customizable QR codes for any URL. The application supports various output formats and color options.
 
 ## Features
